@@ -17,7 +17,7 @@ jobs:
 
      - name: Add upstream remote
        run: |
-         git remote add upstream https://github.com/realbestia/ERPB.git
+         git remote add upstream https://github.com/realbestia1/erdb.git
 
      - name: Fetch upstream
        run: git fetch upstream
